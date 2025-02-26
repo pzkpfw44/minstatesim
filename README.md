@@ -46,5 +46,5 @@ State funds too low for services.
 
 ---
 
-🛠 **Contributions are welcome!** Fork the project and suggest improvements. 🚀
+🛠 **Contributions are welcome!** Fel free to fork the project and suggest improvements. 🚀
 

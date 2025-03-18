@@ -12,7 +12,7 @@ This project simulates a **Minimal-State Society**, where individuals engage in 
 
 ## Installation
 ### 1️⃣ Install Python Dependencies
-```sh
+```sh 
 pip install random
 ```
 (Note: The `random` module is built into Python, so no extra install is needed.)
